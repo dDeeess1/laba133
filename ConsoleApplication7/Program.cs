@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 class University
 {
-    public string first_name = "Илья"; // { get; }
+    public string first_name = "Руслан"; // { get; }
     public string last_name = "Пузырев";
     public string age = "07.11.2005";
     public char sex = 'M';
