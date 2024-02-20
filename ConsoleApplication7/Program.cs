@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-// hi // hhee
+// hi
 
 class University
 {
