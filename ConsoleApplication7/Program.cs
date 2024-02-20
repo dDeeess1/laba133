@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 
 
+// hi
+
 class University
 {
     public string first_name = "Илья"; // { get; }
