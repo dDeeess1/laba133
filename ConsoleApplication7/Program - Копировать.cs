@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-// hi // hhee
+// hi
 
 class University
 {
@@ -48,6 +48,7 @@ class University
             } else
             {
                 Console.WriteLine("Оценка удалена\n");
+                // oweto//
             }
         }
         else
